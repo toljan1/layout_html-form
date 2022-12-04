@@ -1,1 +1,8 @@
 /* styles go here */
+.container {
+  margin-top: 10px ;
+}
+
+.fields {
+  margin-bottom: 20px;
+}
