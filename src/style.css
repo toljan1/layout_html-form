@@ -1,5 +1,6 @@
 /* styles go here */
 .container {
+  display: block;
   margin-top: 10px ;
 }
 
